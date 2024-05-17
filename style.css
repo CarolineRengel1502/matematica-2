@@ -5,7 +5,7 @@
 }
 // <uniquifier>: Use a unique and descriptive class name
 
-.playfair-display-<uniquifier> {
+body{
   font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
   font-weight: 400;
